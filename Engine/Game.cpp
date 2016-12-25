@@ -58,6 +58,7 @@ Game::Game( MainWindow& wnd )
 		walls[current].Init(rng, brd, snek);
 		current++;
 	}
+	//uhygfd
 }
 
 void Game::Go()
